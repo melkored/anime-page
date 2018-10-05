@@ -12,19 +12,19 @@ self.__precacheManifest = [
     "url": "/anime-page/static/js/runtime~main.2c24f9ae.js"
   },
   {
-    "revision": "b51d83180ab70625c1ea",
-    "url": "/anime-page/static/js/main.b51d8318.chunk.js"
+    "revision": "be30506d623aa6d05334",
+    "url": "/anime-page/static/js/main.be30506d.chunk.js"
   },
   {
     "revision": "15e8cbe0142e1b4ffff0",
     "url": "/anime-page/static/js/1.15e8cbe0.chunk.js"
   },
   {
-    "revision": "b51d83180ab70625c1ea",
-    "url": "/anime-page/static/css/main.d5928912.chunk.css"
+    "revision": "be30506d623aa6d05334",
+    "url": "/anime-page/static/css/main.19563fe1.chunk.css"
   },
   {
-    "revision": "1e968b42688b09af6b284154dd590b48",
+    "revision": "762c581cbe76481e5bcdc4e6b97da176",
     "url": "/anime-page/index.html"
   }
 ];
