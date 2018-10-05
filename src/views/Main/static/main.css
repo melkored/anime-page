@@ -18,6 +18,16 @@
     box-shadow:         3px 3px 5px 6px #ccc;
 }
 
+@media only screen and (max-width: 768px) {
+    .all-content-bucket > div.child-bucket {
+        width: 80%;
+        margin: 10%;
+    }
+    .all-content-bucket{
+        flex-direction: column;
+    }
+}
+
 .search-input-div{
     margin-top: 20px;
 }

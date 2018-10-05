@@ -29,6 +29,15 @@
         flex-direction: column;
     }
 }
+@media only screen and (max-width: 768px) {
+    .all-result-content > div.each-content {
+        width: 40%;
+        margin: 5%;
+    }
+    .all-result-conten{
+        flex-direction: column;
+    }
+}
 
 .each-content{
     position: relative;

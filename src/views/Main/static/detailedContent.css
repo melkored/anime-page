@@ -17,6 +17,16 @@
     font-size: 30px;
 }
 
+@media only screen and (max-width: 992px) {
+    .all-detailed-bucket > div.detailed-child {
+        width: 80%;
+        margin: 10%;
+    }
+    .all-detailed-bucket{
+        flex-direction: column;
+    }
+}
+
 .synopsis-content{
     padding: 0 25px;
 }
