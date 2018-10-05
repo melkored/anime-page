@@ -1,0 +1,33 @@
+.all-content-bucket{
+    display: flex;
+    justify-content: center;
+    /*flex-direction: column;*/
+}
+
+.all-content-bucket > div.child-bucket {
+    background-color: #f1f1f1;
+    width: 40%;
+    margin: 10px;
+    text-align: center;
+    font-size: 30px;
+    border-radius: 10px;
+    height: 800px;
+    overflow-y: scroll;
+    moz-box-shadow:    3px 3px 5px 6px #ccc;
+    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
+    box-shadow:         3px 3px 5px 6px #ccc;
+}
+
+.search-input-div{
+    margin-top: 20px;
+}
+
+.anime-btn{
+    padding: 10px 15px;
+    background-color: #ffa500;
+    border-radius: 15px;
+    color: white;
+    font-size: 18px;
+    cursor: pointer;
+}
+button:focus {outline:0;}

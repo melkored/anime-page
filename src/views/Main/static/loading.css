@@ -1,0 +1,15 @@
+.loading-bucket{
+    background-color: black;
+    height: 800px;
+    position: absolute;
+    width: 40%;
+    z-index: 999;
+    opacity: 0.8;
+    border-radius: 10px;
+}
+
+.loading-bucket img{
+    margin-top: 250px;
+    opacity: 1;
+    width: 60%
+}

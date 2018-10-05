@@ -1,0 +1,23 @@
+.search-header-bucket{
+    height: 100px;
+    text-align: center;
+}
+
+.content-input{
+    height: 30px;
+    width: 300px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.type-search-div{
+    margin-top: 5px;
+}
+.type-search-div label{
+    margin: 0 5px;
+    font-size: 26px;
+}
+
+.search-btn{
+    margin-left: 15px;
+}
