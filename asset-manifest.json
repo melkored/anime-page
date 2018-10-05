@@ -1,7 +1,7 @@
 {
   "main.css": "/anime-page/static/css/main.19563fe1.chunk.css",
-  "main.js": "/anime-page/static/js/main.be30506d.chunk.js",
-  "main.js.map": "/anime-page/static/js/main.be30506d.chunk.js.map",
+  "main.js": "/anime-page/static/js/main.2330426c.chunk.js",
+  "main.js.map": "/anime-page/static/js/main.2330426c.chunk.js.map",
   "static/js/1.15e8cbe0.chunk.js": "/anime-page/static/js/1.15e8cbe0.chunk.js",
   "static/js/1.15e8cbe0.chunk.js.map": "/anime-page/static/js/1.15e8cbe0.chunk.js.map",
   "runtime~main.js": "/anime-page/static/js/runtime~main.2c24f9ae.js",
@@ -10,6 +10,6 @@
   "static/media/loading.gif": "/anime-page/static/media/loading.3db51028.gif",
   "static/media/index.css": "/anime-page/static/media/wall.996b5dca.png",
   "index.html": "/anime-page/index.html",
-  "precache-manifest.4238d9c67c5b5ec0ca670c732b6e82ed.js": "/anime-page/precache-manifest.4238d9c67c5b5ec0ca670c732b6e82ed.js",
+  "precache-manifest.c4ce3a83fd8e0fce2e34ff1cb4e661e4.js": "/anime-page/precache-manifest.c4ce3a83fd8e0fce2e34ff1cb4e661e4.js",
   "service-worker.js": "/anime-page/service-worker.js"
 }
