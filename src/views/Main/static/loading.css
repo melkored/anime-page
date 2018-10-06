@@ -10,14 +10,14 @@
 
 @media only screen and (min-width: 993px) {
     .loading-bucket{
-        width: 40%;
+        width: 47%;
     }
 }
 
 @media only screen and (max-width: 992px) {
     .loading-bucket{
         width: 90%;
-        height: 320px;
+        height: 330px;
     }
     .loading-bucket img{
         margin-top: 100px !important;
