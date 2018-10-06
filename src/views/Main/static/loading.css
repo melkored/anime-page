@@ -8,15 +8,12 @@
     border-radius: 10px;
 }
 
-<<<<<<< HEAD
 @media only screen and (min-width: 993px) {
     .loading-bucket{
         width: 40%;
     }
 }
 
-=======
->>>>>>> 70cf2e53debd27422dcd099c31477bde90bccdeb
 @media only screen and (max-width: 992px) {
     .loading-bucket{
         width: 90%;
