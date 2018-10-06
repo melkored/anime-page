@@ -22,7 +22,7 @@
     .all-content-bucket > div.child-bucket {
         width: 90%;
         margin: 5%;
-        height: 300px;
+        height: 320px;
     }
     .all-content-bucket{
         flex-direction: column;

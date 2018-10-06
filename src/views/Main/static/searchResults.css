@@ -18,6 +18,9 @@
         width: 40%;
         margin: 5%;
     }
+    .no-content-to-show{
+        margin-top: 100px;
+    }
 }
 
 @media only screen and (max-width: 992px) {
@@ -28,15 +31,25 @@
     .all-result-conten{
         flex-direction: column;
     }
+    .no-content-to-show{
+        margin-top: 50px;
+    }
 }
 @media only screen and (max-width: 768px) {
     .all-result-content > div.each-content {
+        width: 25%;
+        margin: 2%;
+    }
+
+    .no-content-to-show{
+        margin-top: 0;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    .all-result-content > div.each-content {
         width: 40%;
         margin: 5%;
-    }
-    .all-result-conten{
-        flex-direction: column;
-        display: inline;
     }
 }
 
@@ -86,8 +99,4 @@
     font-size: 17px;
     color: black;
     font-weight: 800;
-}
-
-.no-content-to-show{
-    margin-top: 300px;
 }
