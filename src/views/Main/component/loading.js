@@ -1,5 +1,5 @@
 import React from 'react'
-import loadingImage from '../static/loading.gif'
+import loadingImage from '../static/round-loading.gif'
 import '../static/loading.css'
 
 let Loading = () => (

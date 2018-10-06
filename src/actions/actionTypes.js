@@ -1,0 +1,4 @@
+export const GET_CONTENT = "GET_CONTENT";
+export const REQUEST_CONTENT = "REQUEST_CONTENT";
+export const GET_DETAILED = "GET_DETAILED";
+export const REQUEST_DETAILED = "REQUEST_DETAILED";
