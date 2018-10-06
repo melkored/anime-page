@@ -22,8 +22,8 @@
 
 @media only screen and (max-width: 992px) {
     .all-result-content > div.each-content {
-        width: 80%;
-        margin: 10%;
+        width: 20%;
+        margin: 2%;
     }
     .all-result-conten{
         flex-direction: column;
@@ -36,6 +36,7 @@
     }
     .all-result-conten{
         flex-direction: column;
+        display: inline;
     }
 }
 
@@ -69,16 +70,12 @@
 
 .each-content:hover .content-img{
     opacity: 0.5;
-    transform: scale(1.3);
     z-index: 999;
 }
 .each-content:hover .middle-div {
     opacity: 1;
 }
 
-.each-content:hover .content-basic-info {
-    transform: scale(1.3);
-}
 .content-basic-info{
     width: 100%;
 }

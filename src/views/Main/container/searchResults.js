@@ -31,7 +31,8 @@ class SearchResults extends Component{
         else{
             return(
                 <div className={"no-content-to-show"}>
-                    <span className={"first-instruction"}>¡Utiliza el búscador de arriba para encontrar los mejores animes y mangas!</span>
+                    <span className={"first-instruction"}>¡Utiliza el búscador de arriba para encontrar los mejores animes y mangas!</span><br/><br/>
+                    <span className={"first-instruction"}>¿No sabes qué buscar? ¡Solo aprieta el botón de búsqueda y encontrarás el mejor contenido!</span>
                 </div>
             )
         }

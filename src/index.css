@@ -6,8 +6,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-    background: url("./views/Main/static/wall.png") repeat top !important;
-    background-size: cover !important;
+    background-color: lightgray;
 }
 
 code {

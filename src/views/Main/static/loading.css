@@ -2,14 +2,24 @@
     background-color: black;
     height: 800px;
     position: absolute;
-    width: 40%;
+    width: 30%;
     z-index: 999;
     opacity: 0.8;
     border-radius: 10px;
 }
 
+@media only screen and (max-width: 992px) {
+    .loading-bucket{
+        width: 90%;
+        height: 300px;
+    }
+    .loading-bucket img{
+        margin-top: 100px !important;
+    }
+}
+
 .loading-bucket img{
     margin-top: 250px;
     opacity: 1;
-    width: 60%
+    width: 20%
 }

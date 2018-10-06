@@ -13,15 +13,16 @@
     border-radius: 10px;
     height: 800px;
     overflow-y: scroll;
-    moz-box-shadow:    3px 3px 5px 6px #ccc;
-    -webkit-box-shadow: 3px 3px 5px 6px #ccc;
-    box-shadow:         3px 3px 5px 6px #ccc;
+    moz-box-shadow:    3px 3px 5px 6px #787878;
+    -webkit-box-shadow: 3px 3px 5px 6px #787878;
+    box-shadow:         3px 3px 5px 6px #787878;
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 992px) {
     .all-content-bucket > div.child-bucket {
-        width: 80%;
-        margin: 10%;
+        width: 90%;
+        margin: 5%;
+        height: 300px;
     }
     .all-content-bucket{
         flex-direction: column;
