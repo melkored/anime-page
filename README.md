@@ -6,13 +6,13 @@ mostrando el anime/manga que buscas, así como contenido relacionado.
 
 Las dependencias utilizadas para su realización son:
 *axios
-*gh-pages
-*react
-*react-dom
-*react-redux
-*redux
-*redux-logger
-*redux-saga
+* gh-pages
+* react
+* react-dom
+* react-redux
+* redux
+* redux-logger
+* redux-saga
 
 ### Para poder "correr" el proyecto se utiliza el comando "npm start" ###
 
