@@ -8,19 +8,19 @@ self.__precacheManifest = [
     "url": "/anime-page/static/js/runtime~main.2c24f9ae.js"
   },
   {
-    "revision": "d6d2d4ee045d76a5cec4",
-    "url": "/anime-page/static/js/main.d6d2d4ee.chunk.js"
+    "revision": "5c89a950b630dc7f1d2a",
+    "url": "/anime-page/static/js/main.5c89a950.chunk.js"
   },
   {
     "revision": "15e8cbe0142e1b4ffff0",
     "url": "/anime-page/static/js/1.15e8cbe0.chunk.js"
   },
   {
-    "revision": "d6d2d4ee045d76a5cec4",
-    "url": "/anime-page/static/css/main.410de145.chunk.css"
+    "revision": "5c89a950b630dc7f1d2a",
+    "url": "/anime-page/static/css/main.cce0ad56.chunk.css"
   },
   {
-    "revision": "276366ae2b3087c8e61525c0f0dd37e3",
+    "revision": "aa99dd38065f698ca00908439214da7b",
     "url": "/anime-page/index.html"
   }
 ];
